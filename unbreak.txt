@@ -1,10 +1,10 @@
-! Title: List-KR unbreak
+! Title: Adblock-for-KR unbreak
 !
 ! Filter that fixes filtration errors in an alternative way
 ! due to limitations of adblockers other than Adguard
 ! or those using Webkit content blocker API.
 !
-! Homepage: https://List-KR.github.io
+! Homepage: https://List-KR.github.io (Original)
 ! License: https://creativecommons.org/licenses/by-sa/4.0/deed.hi
 !
 ! ---------------------------------------------------------------
